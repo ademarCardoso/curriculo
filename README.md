@@ -26,7 +26,9 @@ Com isso em mente venho estudando alguns frameworks com React e Vue Js, pois a c
 * Web developer – Cod3r (ANDAMENTO)
 * BootCamp OmniStack – Rocket Set 2019 (FINALIZADO)
 
-Sempre gostei de escrever, então este ano estou me propondo a começar alguns artigos, e já tenho alguns na plataforma Medium, dá uma olhadinha no meu perfil clicando aqui.
+---
+
+Sempre gostei de escrever, então este ano estou me propondo a começar alguns artigos, e já tenho alguns na plataforma Medium, dá uma olhadinha no meu perfil clicando [aqui](https://medium.com/@ademarjunior_80523).
 
 Neste meu perfil do GitHub você poderá encontrar alguns repositórios bem legais de coisas que já fiz e venho estudando, dê uma olhada e se quiser, faça um pull request, vou adorar qualquer contribuição :)
 
